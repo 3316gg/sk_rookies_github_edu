@@ -1,2 +1,2 @@
 # sk_rookies_github_edu
-sk rookie를 위한 git
+sk rookie를 위한 git dd
